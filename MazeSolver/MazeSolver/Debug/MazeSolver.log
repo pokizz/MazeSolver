@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\babat\source\repos\mazesolver\mazesolver\main.c(9): warning C4047: '=': 'char **' differs in levels of indirection from 'char [10]'
+c:\users\babat\source\repos\mazesolver\mazesolver\main.c(12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\babat\source\repos\mazesolver\mazesolver\main.c(12): warning C4024: 'GetMazeFromFile': different types for formal and actual parameter 1
+  MazeSolver.vcxproj -> C:\Users\babat\source\repos\MazeSolver\Debug\MazeSolver.exe
